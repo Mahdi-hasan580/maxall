@@ -1,9 +1,5 @@
 #ASSALIKUM ALL
 
-os.system('pip install pyarmor')
-os.system('clear')
-os.system('pip install pyarmor')
-
 
 
 import marshal
