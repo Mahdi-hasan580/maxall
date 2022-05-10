@@ -8,6 +8,8 @@ pip install requests
 
 pip install mechanize
 
+pip install pyarmor
+
 pip install bs4
 
 git clone https://github.com/Mahdi-hasan580/maxall
