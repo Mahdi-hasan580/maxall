@@ -1,4 +1,7 @@
 # maxall
+#BEST ID CLONING COMAD
+# ALL COMAND IN ONE
+
 
 pkg install python -y
 
