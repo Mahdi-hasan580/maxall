@@ -19,4 +19,4 @@ git clone https://github.com/Mahdi-hasan580/maxall
 
 cd maxall
 
-python mahdi.py
+python prayme.py
